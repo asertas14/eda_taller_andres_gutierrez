@@ -13,6 +13,8 @@ Este repositorio contiene un análisis detallado de propiedades listadas en Airb
 
 3. **Presentación (resumenejecutivo.ppt)**:
    - Una presentación resumida con los hallazgos clave y recomendaciones del análisis.
+   
+4. **Papers usados para la elección de features** (S0148296321005968 y EJTR_3012)
 
 ## Instrucciones para la Ejecución
 
